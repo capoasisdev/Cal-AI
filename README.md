@@ -2,7 +2,7 @@
 
 A modern photo-first calorie & macro tracking mobile application built for **Android & iOS** using **React Native**, **Expo SDK 57**, and **NativeWind (Tailwind CSS)**.
 
-Inspired by Cal AI, Salado AI allows users to photograph their food, automatically calculates calories and macros (Protein, Carbs, Fat), tracks streaks, and manages daily nutritional targets.
+Salado AI allows users to photograph their food, automatically calculates calories and macros (Protein, Carbs, Fat), tracks streaks, and manages daily nutritional targets.
 
 ---
 
